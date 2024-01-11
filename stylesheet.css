@@ -1,0 +1,30 @@
+.box{
+    color: black;
+    background-color: gainsboro;
+    border: 3px dotted black ;
+    width: 200px;
+    height: 500px;
+    box-sizing: border-box;
+    overflow: auto;
+    border-radius: 10px 15px 10px 15px;
+    box-shadow: 10px 10px 3px 4px gray;
+    float: left;
+    margin: 50px 50px 10px 15px;
+    padding: 10px 10px 15px 10px;
+
+}
+.box2{
+    color: red;
+    background-color: gray;
+    border: 3px dotted red ;
+    width: 200px;
+    height: 500px;
+    box-sizing: border-box;
+    overflow: auto;
+    border-radius: 10px 15px 10px 15px;
+    box-shadow: 10px 10px 3px 4px greenyellow;
+    float: left;
+}
+.box3{
+    float: left;
+}
